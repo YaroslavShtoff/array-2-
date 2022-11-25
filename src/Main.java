@@ -22,7 +22,7 @@ public class Main {
         // Задача 2
 
         int max = 1;
-        int min= 30001;
+        int min= 300001;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] > max) {
                 max = arr[i];
